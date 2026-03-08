@@ -46,6 +46,7 @@ The Neural OS Controller is more than just a sci-fi concept; it has practical, r
 ## 🚀 Getting Started
 
 1.  Clone the repository and ensure you are on a Windows machine.
-2.  Install dependencies: `pip install opencv-python mediapipe pywin32 pycaw filterpy psutil numpy`
-3.  Run the orchestrator: `python src/main.py`
-4.  Step back, raise your hand, and take control.
+2.  Install dependencies: `pip install -r requirements.txt`
+3.  Run the orchestrator: `python src/main.py 1`
+4.  Step back, raise your hand, and take control of your OS by your hand.
+
