@@ -1,4 +1,4 @@
-# Neural OS Controller
+                                                                                          # Neural OS Controller
 
 **Made by Ishan Maitra - Cloud & AI Developer of Google Cloud**
 
@@ -49,4 +49,5 @@ The Neural OS Controller is more than just a sci-fi concept; it has practical, r
 2.  Install dependencies: `pip install -r requirements.txt`
 3.  Run the orchestrator: `python src/main.py 1`
 4.  Step back, raise your hand, and take control of your OS by your hand.
+
 
