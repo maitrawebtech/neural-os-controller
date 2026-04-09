@@ -52,10 +52,10 @@ The Neural OS Controller is more than just a sci-fi concept; it has practical, r
 
 ##👨‍💻 Author
 
-Ishan Maitra — Developer of Google 
-GitHub: https://github.com/maitrawebtech
-Phone No: +91 9674026774
-Email: ishanmaitra2012@gmai.com
+* Ishan Maitra — Developer of Google 
+* GitHub: https://github.com/maitrawebtech
+* Phone No: +91 9674026774
+* Email: ishanmaitra2012@gmai.com
 
 
 
