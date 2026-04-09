@@ -50,5 +50,11 @@ The Neural OS Controller is more than just a sci-fi concept; it has practical, r
 3.  Run the orchestrator: `python src/main.py 1`
 4.  Step back, raise your hand, and take control of your OS by your hand.
 
+👨‍💻 Author
+
+Ishan Maitra — Developer of Google 
+GitHub: https://github.com/maitrawebtech
+
+
 
 
