@@ -7,7 +7,7 @@ A futuristic, touchless operating system controller that translates 3D hand kine
 ## ✨ Features
 
 *   **Touchless Window Management**: Grab, drag, and drop any active window on your screen using only your hand in mid-air. 
-*   **Inertial Physics Engine**: Windows glide and snap with built-in momentum when you release them during a drag, creating a natural, fluid feel.
+*   **Inertial Physics Engine**: Windows glide and snap with built-in momentum when you release them during a drag, creating a natural, fluid feel.jfjf
 *   **Instant Window Minimization**: Rapidly flick your hand to minimize the current window.
 *   **Stealth Protocol**: Quickly clench a fist to instantly mute your system volume and hide all windows, showing the desktop.
 *   **Virtual Desktop Navigation**: Twist your hand to seamlessly snap between your Windows Virtual Desktops.
