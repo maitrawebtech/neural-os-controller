@@ -1,5 +1,5 @@
 # Neural OS Controller
-j
+
 **Made by Ishan Maitra - Cloud & AI Developer of Google Cloud**
 
 A futuristic, touchless operating system controller that translates 3D hand kinematics into precise system-level actions. By leveraging advanced Computer Vision and State Estimation algorithms, this project allows you to control your Windows PC using intuitive, "Jedi-like" gravitational gestures—no mouse or keyboard required.
