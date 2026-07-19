@@ -1,4 +1,4 @@
-djdjdjdjdjdjdjdjdjdjdjjdjdjdjdjdj# Neural OS Controller
+# Neural OS Controller
 
 **Made by Ishan Maitra - Cloud & AI Developer of Google Cloud**
 
